@@ -1,0 +1,23 @@
+{
+  "token": "a2aa10aC7y1RY5ymrSTo8Yhb3lMkyQJgNm6tapc1Hvd2in2Kv8bdYCZisnZC",
+  "type": "Vue",
+  "server": "https://quant-ux.com",
+  "conflict": "overwrite",
+  "css": {
+    "grid": false,
+    "prefix": ""
+  },
+  "vue": {
+    "generateRouter": true,
+    "generateApp": true,
+    "routerName": "router.js"
+  },
+  "targets": {
+    "vue": "src/pages",
+    "css": "src/css",
+    "html": "src/html",
+    "images": "src/images",
+    "vueRouter": "src",
+    "vueApp": "src"
+  }
+}
